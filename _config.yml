@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Wau2380's Devloper Story"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Park yijung"
+name                     : "Park yijung(박이정)"
 description              : "꾸준히 공부하는 학생 개발자입니다."
 url                      : "https://wau2380.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,8 +104,8 @@ author:
   name             : "Park yijung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Republic of korea"
+  email            : "wau2380@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
